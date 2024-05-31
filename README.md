@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, my name is Luiz
+👋 Hi, my name is Luiz<br/>
 I'm a Front-End Developer
 
 
